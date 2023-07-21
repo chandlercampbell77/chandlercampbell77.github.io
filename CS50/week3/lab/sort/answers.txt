@@ -1,0 +1,47 @@
+sort1 uses: bubble sort
+
+How do you know?: By process of elimination, but also because there is a significant difference in the running time for the best case scenario and the worst case scenario.
+Time sorted5000: 0.045s
+Time sorted10000: 0.079s
+Time sorted50000: 0.781s
+
+Time random5000: 0.091s
+Time random10000: 0.321s
+Time random50000: 8.223s
+
+Time reversed5000: 0.100s
+Time reversed10000: 0.313s
+Time reversed50000: 6.271s
+
+
+sort2 uses: merge sort
+
+How do you know?: I was debating whether this one was merge or selection sort. I knew it was one of those because both of them have the same running time whether in the best case scenario or worst case scenario. I knew this was merge sort because it was slightly faster than selection sort.
+Time sorted5000: 0.032s
+Time sorted10000: 0.071s
+Time sorted50000: 0.788s
+
+Time random5000: 0.027s
+Time random10000: 0.050s
+Time random50000: 0.848s
+
+Time reversed5000: 0.039s
+Time reversed10000: 0.057s
+Time reversed50000: 0.0975s
+
+
+
+sort3 uses: selection sort
+
+How do you know?: I was debating whether this one was merge or selection sort. I knew it was one of those because both of them have the same running time whether in the best case scenario or worst case scenario. I knew this was selection sort because it was slightly slower than merge sort.
+Time sorted5000: 0.069s
+Time sorted10000: 0.167s
+Time sorted50000: 6.844s
+
+Time random5000: 0.043s
+Time random10000: 0.159s
+Time random50000: 3.949s
+
+Time reversed5000: 0.049s
+Time reversed10000: 0.160s
+Time reversed50000: 3.822s
