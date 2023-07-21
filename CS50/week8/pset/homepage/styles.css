@@ -1,0 +1,40 @@
+.centered
+{
+    text-align: center;
+}
+
+.font
+{
+    font-family: monaco,Consolas,Lucida Console,monospace;
+    text-align: center;
+}
+
+.xlarge
+{
+    font-size: x-large;
+}
+
+.large
+{
+    font-size: large;
+}
+
+.medium
+{
+    font-size: medium;
+}
+
+.bold
+{
+    font-weight: bold;
+}
+
+.left
+{
+    text-align: left;
+}
+
+.fsu
+{
+    color: #782F40;
+}
