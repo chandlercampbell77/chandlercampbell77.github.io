@@ -1,0 +1,1 @@
+Detail-oriented and innovative Computer Science student, seeking a challenging Software Developer Internship. Leveraging a solid foundation in data structures, algorithms, and object-oriented programming, I aim to apply and enhance my coding and problem-solving skills to contribute to your software development projects.
