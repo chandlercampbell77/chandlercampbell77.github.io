@@ -1,0 +1,211 @@
+commit 7c2bd3200cb266418cceb42ba2a8cb6758452251
+Merge: ba7e8b9 a33de96
+Author: Chandler Campbell <ccam734@wgu.edu>
+Date:   Sat Sep 2 14:19:40 2023 -0400
+
+    kept 'the' instead of 'a' and 'git' is boring
+
+commit a33de96f0971d17ca3b0885532e514d00961157f
+Author: Chandler Campbell <ccam734@wgu.edu>
+Date:   Sat Sep 2 14:14:07 2023 -0400
+
+    Creating merge conflict2
+
+commit ba7e8b9296737c523dda473355f33dfe0f5cf67a
+Author: Chandler Campbell <ccam734@wgu.edu>
+Date:   Sat Sep 2 14:12:25 2023 -0400
+
+    Creating merge conflict1
+
+commit 2c3825d914247d262112620480a648dd8c658f0c
+Merge: 84b9328 230c5e1
+Author: Chandler Campbell <ccam734@wgu.edu>
+Date:   Sat Sep 2 14:05:18 2023 -0400
+
+    Kept 1st update to file
+
+commit 230c5e177540e33b2f6d9c0a452627605023edb9
+Author: Chandler Campbell <ccam734@wgu.edu>
+Date:   Sat Sep 2 13:52:49 2023 -0400
+
+    Creating merge conflict2
+
+commit 84b9328bb0779d0983e8dd6afde58293c449ccb7
+Author: Chandler Campbell <ccam734@wgu.edu>
+Date:   Sat Sep 2 13:50:59 2023 -0400
+
+    Creating merge conflict
+
+commit 324fcb2add1bb7484c96ea4a56ec42ef83bdb855
+Author: Chandler Campbell <ccam734@wgu.edu>
+Date:   Sat Sep 2 13:10:07 2023 -0400
+
+    Adds a readme branch and adds my student ID to the README.md file
+
+commit f40b24503c88bf9e67d33601c09ef84b8477475f
+Author: Chandler Campbell <ccam734@wgu.edu>
+Date:   Sat Sep 2 12:52:28 2023 -0400
+
+    Adds a comment to top of file
+
+commit bd6d23432030265a435dca8cce95f88af1324fdc
+Author: Chandler Campbell <ccam734@wgu.edu>
+Date:   Sat Sep 2 12:51:08 2023 -0400
+
+    Adds a comment to top of file
+
+commit 7c192aedcf2cc310ef02643b53b34c474067f93c
+Author: Chandler Campbell <ccam734@wgu.edu>
+Date:   Sat Sep 2 12:49:52 2023 -0400
+
+    Adds a comment to top of file
+
+commit 0423ae0169c024ba129e996d17a33d4d74931be0
+Author: Chandler Campbell <chandlercampbell77@gmail.com>
+Date:   Sat Sep 2 16:08:28 2023 +0000
+
+    Upload New File
+
+commit 919183daa32e7ab5461f03eb30592e86918758be
+Author: Chandler Campbell <chandlercampbell77@gmail.com>
+Date:   Sat Sep 2 16:08:16 2023 +0000
+
+    Add new directory
+
+commit 54a7528c08d6eea3892540abd575cb0209ee4746
+Author: Chandler Campbell <chandlercampbell77@gmail.com>
+Date:   Sat Sep 2 16:07:49 2023 +0000
+
+    Upload New File
+
+commit aa3ea8b314c8c3e9281e5f2ae58e1afbe2ae303c
+Author: Chandler Campbell <chandlercampbell77@gmail.com>
+Date:   Sat Sep 2 16:07:36 2023 +0000
+
+    Upload New File
+
+commit 7509f8b05ceefcbf4491c4eef795dfc2976b2342
+Author: Chandler Campbell <chandlercampbell77@gmail.com>
+Date:   Sat Sep 2 16:07:22 2023 +0000
+
+    Upload New File
+
+commit bcb4528d5b3936847ebd9e57ea12ac84860fc749
+Author: Chandler Campbell <chandlercampbell77@gmail.com>
+Date:   Sat Sep 2 16:07:08 2023 +0000
+
+    Upload New File
+
+commit 4a36cf0b864646bea7a02d2b21447a0813eafe70
+Author: Chandler Campbell <chandlercampbell77@gmail.com>
+Date:   Sat Sep 2 16:06:50 2023 +0000
+
+    Upload New File
+
+commit 4a3fc6c9e7cee64b82b22c1dfbe213d40fa897ac
+Author: Chandler Campbell <chandlercampbell77@gmail.com>
+Date:   Sat Sep 2 16:06:38 2023 +0000
+
+    Upload New File
+
+commit 15c4d1c5195405cc604507dff3a27b2e3dc571bd
+Author: Chandler Campbell <chandlercampbell77@gmail.com>
+Date:   Sat Sep 2 16:06:28 2023 +0000
+
+    Upload New File
+
+commit bb1623fdacff984c879714af73ca59231a6c3e61
+Author: Chandler Campbell <chandlercampbell77@gmail.com>
+Date:   Sat Sep 2 16:06:08 2023 +0000
+
+    Upload New File
+
+commit 4b94edae75e751adb02bc162032e883c886f64c9
+Author: Chandler Campbell <chandlercampbell77@gmail.com>
+Date:   Sat Sep 2 16:05:55 2023 +0000
+
+    Upload New File
+
+commit fa11fba4456b85638571a2406ea9d187063895ab
+Author: Chandler Campbell <chandlercampbell77@gmail.com>
+Date:   Sat Sep 2 16:05:43 2023 +0000
+
+    Upload New File
+
+commit 71656d68dd2361915d6a2acfb10a8d5ec93233ac
+Author: Chandler Campbell <chandlercampbell77@gmail.com>
+Date:   Sat Sep 2 16:05:29 2023 +0000
+
+    Upload New File
+
+commit f45fd3b8f048693bf3332ae5f9bcf2297ccc3869
+Author: Chandler Campbell <chandlercampbell77@gmail.com>
+Date:   Sat Sep 2 16:05:15 2023 +0000
+
+    Upload New File
+
+commit 4b963587fc41bd39550ed77cdbd1894fdbac952c
+Author: Chandler Campbell <chandlercampbell77@gmail.com>
+Date:   Sat Sep 2 16:04:07 2023 +0000
+
+    Add new directory
+
+commit 34c2a7563bb61d484b3ce132920bdb8a23d1aea9
+Author: Chandler Campbell <chandlercampbell77@gmail.com>
+Date:   Sat Sep 2 16:03:16 2023 +0000
+
+    Upload New File
+
+commit 9a2b5be63db7750fe3e4be166cc651fb72fccdbc
+Author: Chandler Campbell <chandlercampbell77@gmail.com>
+Date:   Sat Sep 2 16:02:56 2023 +0000
+
+    Add new directory
+
+commit 72475168597e9e2cbb0cd5bf777fcf04123cc56a
+Author: Chandler Campbell <chandlercampbell77@gmail.com>
+Date:   Sat Sep 2 16:02:18 2023 +0000
+
+    Upload New File
+
+commit 3a7a107dc7bf58cccb01740174bde8b70218bfb7
+Author: Chandler Campbell <chandlercampbell77@gmail.com>
+Date:   Sat Sep 2 16:02:03 2023 +0000
+
+    Upload New File
+
+commit 94db22edcb20c122b949d14acaad5c268bd01d24
+Author: Chandler Campbell <chandlercampbell77@gmail.com>
+Date:   Sat Sep 2 16:01:28 2023 +0000
+
+    Upload New File
+
+commit 4a74c511ded10d0dc1be22bf9e5720ed92e32c7a
+Author: Chandler Campbell <chandlercampbell77@gmail.com>
+Date:   Sat Sep 2 16:01:11 2023 +0000
+
+    Upload New File
+
+commit 8f963f7ae49296f180524bc066a76440808b7e59
+Author: Chandler Campbell <chandlercampbell77@gmail.com>
+Date:   Sat Sep 2 16:00:56 2023 +0000
+
+    Upload New File
+
+commit 17b0810ea96c3666ab5a8e2306ce8afe182fd787
+Author: Chandler Campbell <chandlercampbell77@gmail.com>
+Date:   Sat Sep 2 16:00:25 2023 +0000
+
+    Upload New File
+
+commit 276de3021af73cda77ac83c615abbcd32b42f733
+Author: Chandler Campbell <chandlercampbell77@gmail.com>
+Date:   Sat Sep 2 15:59:42 2023 +0000
+
+    Upload New File
+
+commit 5dbfac1afa4b09635a942ed3133470165ecf6fd5
+Author: Chandler Campbell <chandlercampbell77@gmail.com>
+Date:   Sat Sep 2 15:53:25 2023 +0000
+
+    Initial commit

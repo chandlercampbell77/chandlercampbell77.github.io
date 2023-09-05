@@ -1,0 +1,11 @@
+My merge conflict (the 2nd, correct one) occured in the README.md file. In the main branch I had typed in
+"This is a merge conflict" on one line and "Git is fun" on another line. I then added and committed
+those changes. Next, I went to the readme branch and added "This is the merge conflict" and
+"Git is boring" in the same positions as the main branch modified the file. I added and committed
+those changes. Next, I went back to the main branch and tried to merge. To fix the merge conflict,
+I opened the file using the vi command. The version I kept was the 2nd version from the readme branch.
+I then successfully added and committed the changes, fixing the merge conflict.
+
+I modified 3 files, each time adding a comment at the top of the file that included the name of the
+html file. I then added and commited those changes on the main branch. The 3 files I modified were
+index.html, about.html, and vision.html.
